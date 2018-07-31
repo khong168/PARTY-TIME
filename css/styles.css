@@ -1,0 +1,27 @@
+h1 {
+  font-style: italic;
+  color:#0de8d5;
+  font-size: 33px;
+  align-items: center;
+}
+
+h2 {
+  align-self: center;
+  color: #972a9e;
+  font-family: monospace;
+  font-size: 44px;
+  font-stretch: extra-condensed;
+}
+
+ol {
+  color: #4c184f;
+  font-size: 22px;
+  align-items: center;
+  font-style: oblique;
+  font-family: monospace;
+  font-stretch: expanded;
+}
+
+body {
+  color:#a772aa;
+}
