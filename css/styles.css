@@ -1,27 +1,28 @@
 h1 {
   font-style: italic;
-  color:#0de8d5;
-  font-size: 33px;
-  align-items: center;
+  color:##0a7a96;
+  font-size: 100px;
+  font-family: impact;
+  align-items: right;
 }
 
 h2 {
   align-self: center;
-  color: #972a9e;
-  font-family: monospace;
-  font-size: 44px;
-  font-stretch: extra-condensed;
+  color: #f28d09;
+  font-family: lucida;
+  font-size: 85px;
+  font-stretch: extra-expanded;
 }
 
 ol {
-  color: #4c184f;
-  font-size: 22px;
+  color: #white;
+  font-size: 65px;
   align-items: center;
-  font-style: oblique;
-  font-family: monospace;
+  font-style: italic;
+  font-family: comic;
   font-stretch: expanded;
 }
 
 body {
-  color:#a772aa;
+  background-color:#d2fcae;
 }
